@@ -10,9 +10,9 @@ This is a front-end app accessible in the browser via URL.
 
 Ordinarily, this tool would allow users to see the current weather status of any city in the world via the OpenWeather API.
 
-![screenshot1](users/motroper/weather1.png)
+![screenshot1](weather1.png)
 
-![screenshot2](users/motroper/weather2.png)
+![screenshot2](weather2.png)
 
 ## Contributors
 
