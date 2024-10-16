@@ -16,7 +16,7 @@ Ordinarily, this tool would allow users to see the current weather status of any
 
 ## Contributors
 
-This app was worked on by Morgan Troper, though sadly was never completed. Code was sourced from Chat GPT.
+This app was worked on by Morgan Troper, though sadly was never completed. Additional code sourced from Chat GPT.
 
 ## License 
 
